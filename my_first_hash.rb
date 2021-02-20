@@ -1,5 +1,9 @@
 def my_hash
-  fruit_stash = { "apple" => 2, "orange" => 17, "pear" => 1 }
+  fruit_stash = {
+              "apple" => 2,
+              "orange" => 17,
+              "pear" => 1
+            }
 end
 
 
