@@ -1,7 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  fruit_stash = { "apple" => 2, "orange" => 17, "pear" => 1 }
 end
 
 
